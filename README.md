@@ -4,7 +4,10 @@ In this activity, you’ll apply your database design skills to implement and qu
 Design Process:
 We created the EERD within Lucid Charts initially and then recreated the finalized EERD within PG Admin to create the schema.
 
-Execute the create-schema.sql file within PG Admin after creating a database.
-Then run insert-sample-data.sql file to populate the database with our AI-generated sample data.
+Setup & Execution:
+1. **Create the database**: Create a new database within PG Admin.
+2. **Create the Schema**: Execute the create-schema.sql file within PG Admin.
+3. **Insert Sample Data**: Execute the insert-sample-data.sql file within PG Admin.
+4. **Run Queries**: Execute the individual queries in query-data.sql to verify results against project documentation.
 
-Finally, individually run the main and custom queries within query-data.sql to verify results with our documentation.
+
