@@ -17,7 +17,7 @@ We decided it made sense for the **PATIENT** and **DOCTOR** entities to overlap 
 
 In order for clarity and realistic data we made a separate entity for **EMERGENCY_CONTACT** information for patients. This made sense for storing cleaner data rather then having all emergency information in one singular string inside **PATIENT**.
 
-Having **SPECIALTY** table for doctors made logical sense for clary and will result in more optimal queries if a user wanted to search for a catalog of doctors with a specific specialization.
+Having **SPECIALTY** table for doctors made logical sense for clarity and will result in more optimal queries if a user wanted to search for a catalog of doctors with a specific specialization.
 
 Every other decision followed the business rules with proper entity relationships.
 
