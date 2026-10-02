@@ -7,4 +7,4 @@ We created the EERD within Lucid Charts initially and then recreated the finaliz
 Execute the create-schema.sql file within PG Admin after creating a database.
 Then run insert-sample-data.sql file to populate the database with our AI-generated sample data.
 
-Finally, individually run the main and custom queries to verify results with our documentation.
+Finally, individually run the main and custom queries within query-data.sql to verify results with our documentation.
